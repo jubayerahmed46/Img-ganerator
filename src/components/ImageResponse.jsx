@@ -11,7 +11,7 @@ function ImageResponse() {
     <div className="mt-8  ">
       <h2 className="text-[#00D8FF] font-bold border-b pb-2">Output</h2>
       <div>
-        <img src="" className="h-[300px]   w-full bg-[#00d9ff1a] " alt="" />
+        <img src="" className="h-[300px] w-full bg-[#00d9ff1a] " alt="" />
       </div>
     </div>
   );
